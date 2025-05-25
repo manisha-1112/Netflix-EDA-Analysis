@@ -1,1 +1,2 @@
 # Netflix-EDA-Analysis
+The goal of this project is to explore the Netflix dataset in depth to uncover meaningful insights about how content is distributed across different genres, what types of ratings are most common, which countries are producing the most content, and when most of the content has been released. By analyzing these patterns and trends, the aim is to help guide smarter decisions in content creation, regional marketing strategies, and future planning for what kinds of shows and movies to promote or invest in.
